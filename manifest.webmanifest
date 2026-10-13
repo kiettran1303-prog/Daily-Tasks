@@ -1,0 +1,10 @@
+{
+  "name": "Daily Task Planner",
+  "short_name": "Daily Task",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eaf5f8",
+  "theme_color": "#eaf5f8",
+  "description": "Lịch tuần, ghi chú nhanh và theo dõi khách hàng Gym, lưu dữ liệu cục bộ."
+}
